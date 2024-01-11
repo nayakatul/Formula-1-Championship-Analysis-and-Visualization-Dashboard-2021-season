@@ -16,14 +16,20 @@ The F1 2021 Season Analysis Dashboard is an interactive tool designed to visuali
 
 The data for this dashboard is sourced from the official Formula 1 statistics and augmented with additional telemetry data for a more in-depth analysis.
 
+
+
 **Technologies Used**
 
 - Tableau: For creating interactive and dynamic visualizations.
 - PowerPoint: For presenting the final analysis in a structured and accessible format.
 
+
+
 **Usage**
 
 The dashboard is designed for fans, analysts, and enthusiasts looking to explore the 2021 Formula 1 season in detail. It provides a rich interface for interacting with the data, including filters and drill-down capabilities for in-depth analysis.
+
+
 
 **How to Run**
 
